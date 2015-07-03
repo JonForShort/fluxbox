@@ -1,0 +1,9 @@
+[begin] (fluxbox)
+
+# Original
+# [include] (/etc/X11/fluxbox/fluxbox-menu)
+
+  [reconfig] (Reload)
+  [exit] (Exit)
+
+[end]
